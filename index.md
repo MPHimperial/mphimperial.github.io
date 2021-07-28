@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Imperial MPH Course Preparation
 ---
 
-# Master of Public Health: pre-course preparation resources"
+# Master of Public Health: course preparation resources"
 
 ## Table of Contents
 1. [General advice](#general_advice)
