@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-name: MPH Course Preparation
+title: MPH Course Preparation
 markdown: kramdown
 plugins:
   - jekyll-relative-links
