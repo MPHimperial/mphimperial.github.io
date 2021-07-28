@@ -1,4 +1,4 @@
-# Health Data Analytics and Machine Learning: pre-course preparation resources
+# Master of Public Health: pre-course preparation resources
 
 ## Table of Contents
 1. [General advice](#general_advice)
