@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hank Quinlan, Horrible Cop
+---
+
 # Master of Public Health: pre-course preparation resources"
 
 ## Table of Contents
