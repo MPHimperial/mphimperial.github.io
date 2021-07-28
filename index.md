@@ -3,7 +3,7 @@ layout: default
 title: Imperial MPH Course Preparation
 ---
 
-# Course preparation resources"
+# Course preparation resources
 
 ## Table of Contents
 1. [General advice](#general_advice)
