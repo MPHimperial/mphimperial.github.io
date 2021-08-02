@@ -148,11 +148,6 @@ There are two main repositories of R packages (sets of built-in R functions): th
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 ![Screenshot of installed packages](Screenshot%202020-08-14%20at%2016.25.52.png)
 
-## Handbook material
-
-This is the [dissertation handbook](Dissertation_Handbook_2020_2021.pdf)
-
-
 ## Term 1 reading list <a name="reading_list"></a>
 
 ### Epidemiology
