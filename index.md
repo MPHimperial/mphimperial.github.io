@@ -8,7 +8,7 @@ title: Imperial MPH Course Preparation
 ## Table of Contents
 1. [Value of preparation prior to your MPH](#general_advice)
 2. [Learning to code data analysis in R](#prep_time)
-3. [Setting up your computer for R](#cpu_setup-example)
+3. [Setting up your computer for R](#cpu_setup)
 4. [Statistics Reading list](#stats_list)
 5. [Epidemiology Reading list](#epi_advice)
 6. [Top tips and advice for MPH course](#toptips)
@@ -87,7 +87,7 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 - **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
 
 
-## Epidemiology reading list <a name="reading_list"></a>
+## Epidemiology reading list <a name="epi_advice"></a>
 
 #### Recommended reading for term 1
 - **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
