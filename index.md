@@ -42,7 +42,7 @@ Alternative free introduction to R for complete beginners, including installing 
 
 We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
 
-You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
+You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R and R Studio.
 
 ### Installing R
 First download and install R (the most recent available - currently version 4.1.0) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
@@ -56,8 +56,7 @@ Make sure you select the correct version for Windows computers, Mac computer or 
 
 ### Installing RStudio
 
-R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link:
-**[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**
+R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
 
 
 ## Statistics reading list <a name="stats_list"></a>
