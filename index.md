@@ -6,10 +6,10 @@ title: Imperial MPH Course Preparation
 # Course preparation resources
 
 ## Table of Contents
-1. [Rationale for preparation prior to your MPH](#general_advice)
+1. [Value of preparation prior to your MPH](#general_advice)
 2. [Learning to code data analysis in R](#prep_time)
 3. [Setting up your computer for R](#cpu_setup-example)
-4. [Statistics Reading list](#reading_list)
+4. [Statistics Reading list](#stats_list)
 5. [Epidemiology Reading list](#epi_advice)
 6. [Top tips and advice for MPH course](#toptips)
  
@@ -42,71 +42,54 @@ Alternative free introduction to R for complete beginners, including installing 
 
 We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
 
-You will be extensively using R throughout the year, a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
+You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
 
 ### Installing R
-
 First download and install R (the most recent available - currently version 4.1.0) from the CRAN.
 
 **[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
 
 For Mac users
-
 **[Download R-4.1.0 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
 
 For Windows users
-
 **[The Comprehensive R Archive Network](https://cran.r-project.org)**
 
 For Linux users
-
 ### Installing RStudio
 
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link:
-
 **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**
 
 
-### Statistics
+## Statistics reading list <a name="stats_list"></a>
 
-While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, an understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
+We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. Here are some useful resources:
 
-Here are some useful stats and linear algebra resources:
+Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free.
+**[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
-**[Statistics with R](https://www.coursera.org/specializations/statistics)**
-
-Kill two birds with one stone – this course teaches statistics as applied in R
-
-**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
-
-A more epi/biostats focus, but still useful
-
-**[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)**
-
-This course provides a thorough grounding in linear algebra for ML
-
-**[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
-
-Great youtube channel with stats/ML instructional videos
-
-**[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)**
-
-Another great statistics youtube channel
-
+For starting from the basics, Khan Academy also has excellent tutorials. Free, with the option of giving a donation:
 **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
-For starting from the basics, Khan Academy has excellent tutorials
+Youtube channel with stats instructional videos:
+**[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
 
-### Statistics recommended reading (books are available from Imperial College library once you being your studies)
+A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively:
+**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
+This course teaches statistics as applied in R. We teach exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression on our MPH statistics module. Please IGNORE Bayesian modules are not helpful for your MPH course.
+**[Statistics with R](https://www.coursera.org/specializations/statistics)**
+
+### Statistics recommended reading list for term 1
 - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
 Chapters 2–5 will support what you learn in the term 1 statistics module.
-- **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) (accessed 25 July 2017) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
+- **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
 
 
-## Epidemiology reading list for term 1 <a name="reading_list"></a>
+## Epidemiology reading list <a name="reading_list"></a>
 
-#### Recommended reading
+#### Recommended reading for term 1
 - **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
 - **Basic Epidemiology** Bonita et al. FREE of charge from: [https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1](https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1)
 
