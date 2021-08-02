@@ -21,7 +21,7 @@ With that said, you have the opportunity to lower the gradient of your learning 
 
 ## Learning to code data analysis in R <a name="prep_time"></a>
 
-As with everything else, you will be trained in R coding during your Statistics module(s) , and we do not assume or require any prior experience. However, it can initially take a long time to solve simple problems using R, so you can make things easier on yourself by starting this process before the course. You are required to use R to tabulate, graph and analyse data, and these skills take some time to develop. Skills in coding and in statistics are useful in opening up job opportunities for you.
+As with everything else, you will be trained in R coding during your Statistics module(s), and we do not assume or require any prior experience. However, it can initially take a long time to solve simple problems using R, so you can make things easier on yourself by starting this process before the course. You are required to use R to tabulate, graph and analyse data, and these skills take some time to develop. Skills in coding and in statistics are useful in opening up job opportunities for you.
 
 There are numerous free or cheap resources online for getting started. Here are a selection of the best:
 
@@ -46,9 +46,13 @@ You will be using R for your Statistics module, and some of you will also use it
 
 ### Installing R
 First download and install R (the most recent available - currently version 4.1.0) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
-You are probably best of using this page, certainly if based in the United Kingdom/ London. **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**
+You are recommended to use a page in your own country, so please use the following when based in the United Kingdom/ London. **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**
 
-Make sure you select the correct version for Windows computers, Mac computer or linux computer.
+Make sure you select the correct version for Windows computers, Mac computer or linux computer. 
+
+**For Mac computers**, select mac from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then click and install R-4.1.0.pkg. Then scroll towards the bottom of the page and also install tools (under subdirectories heading).
+
+**For windows computers**, select windows from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then look at end of line which has **base** on left. Click on install R for the first time (from end of this line). Then click on **Download R 4.1.0 for windows**. Also go back to initial window page, scroll down further and click on and install **RTools**.
 
 ### Installing RStudio
 
@@ -97,7 +101,7 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 ## Top Tips and advice for MPH course <a name="toptips"></a>
 
 - Previous students often engaged with preparation material. They find that headstart is incredibly worthwhile.
-- Be proactive, ask question and use the resources that are made available to you (resources, fellow students and lecturers)
+- Be proactive when the course begins, ask question and use the resources that are made available to you (written and online resources, fellow students and lecturers)
 - Keep your lectures notes and your R code organised, I kept referring back to past tutorials in the project, and having a filing system from the beginning of the project made this so much quicker.
 - Don’t think you’re the only one who doesn’t understand something. There’s a huge range of pre-existing skills and knowledge in the other people in the class and inevitably you’ll know less about some stuff and more about other stuff than your pals.
 - Especially with the wide range of skill sets in the program, I had to fight my self consciousness to ask questions. Whenever I didn’t get something, other students did not understand either. When I asked simple questions, many classmates were grateful. I would have asked a few more questions had I not been worried about looking like an idiot. Lecturers appreciate receiving questions.
