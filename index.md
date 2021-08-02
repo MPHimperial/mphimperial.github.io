@@ -9,13 +9,13 @@ title: Imperial MPH Course Preparation
 1. [Value of preparation prior to your MPH](#general_advice)
 2. [Learning to code data analysis in R](#prep_time)
 3. [Setting up your computer for R](#cpu_setup)
-4. [Statistics Reading list](#stats_list)
-5. [Epidemiology Reading list](#epi_advice)
+4. [Preparing for your Statistics course](#stats_list)
+5. [Epidemiology preparation](#epi_advice)
 6. [Top tips and advice for MPH course](#toptips)
  
 ## Value of preparation prior to your MPH <a name="general_advice"></a>
 
-The term 1 modules will give you a solid foundation in epidemiology and statistics. They also teach key principles in research methods and of public health practice. One of the strengths of our MPH is the strength of our Statistics module. This is also a challenge for our students, since it is especially fast-paced. You are required to learn two separate skill sets – Statistics and coding in R (using R to tabulate, graph and statistically analyse data).  Our students have a diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don’t panic if you haven’t, for example, studied epidemiology before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1.
+The term 1 modules will give you a solid foundation in epidemiology and statistics. They also teach key principles in research methods and of public health practice. One of the strengths of our MPH is the strength of our Statistics module. This is also a challenge for our students, since it is especially fast-paced. You are required to learn two separate skill sets – Statistics and coding in R (using R to tabulate, graph and statistically analyse data).  Our students have a diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don’t panic if you haven’t, for example, studied Statistics before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1.
 
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
@@ -59,7 +59,7 @@ Make sure you select the correct version for Windows computers, Mac computer or 
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
 
 
-## Statistics reading list <a name="stats_list"></a>
+## Preparing for your Statistics course <a name="stats_list"></a>
 
 We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. Here are some useful resources:
 
@@ -84,7 +84,7 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 - **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
 
 
-## Epidemiology reading list <a name="epi_advice"></a>
+## Epidemiology preparation <a name="epi_advice"></a>
 
 #### Recommended reading for term 1
 - **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
