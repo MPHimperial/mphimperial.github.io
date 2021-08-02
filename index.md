@@ -34,7 +34,7 @@ Thorough guide to using R for statistics. This covers around two thirds of what 
 A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively:
 **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
-Alternative free introduction to R for complete beginners, including installing R/ RStudio: Focus on what is useful to you on our MPH statistics module, especially Linear regression. You can produce high quality graphs in R using ggplot, which is useful for anyone using R for their dissertation (but not essential learning for MPH students). Graphs are a fun way to practice R coding. Free to take the course – you only have to pay if you want the certificate.
+Alternative free introduction to R for complete beginners, including installing R/ RStudio: Focus on what is useful to you on our MPH statistics module, especially Linear regression. You can produce high quality graphs in R using ggplot, which is useful for anyone using R for their dissertation (but not essential learning for MPH students). Graphs are a fun way to practice R coding. IGNORE machine learning elements. Free to take the course – you only have to pay if you want the certificate.
 **[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)**
 
 
@@ -45,17 +45,11 @@ We will have a dedicated session in the induction week where we will guide you t
 You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
 
 ### Installing R
-First download and install R (the most recent available - currently version 4.1.0) from the CRAN.
+First download and install R (the most recent available - currently version 4.1.0) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
+You are probably best of using this page, certainly if based in the United Kingdom/ London. **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**
 
-**[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
+Make sure you select the correct version for Windows computers, Mac computer or linux computer.
 
-For Mac users
-**[Download R-4.1.0 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
-
-For Windows users
-**[The Comprehensive R Archive Network](https://cran.r-project.org)**
-
-For Linux users
 ### Installing RStudio
 
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link:
