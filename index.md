@@ -107,3 +107,6 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 - Get to know the people on the course and work with them – everyone has different strengths and will pick things up at different rates and it really helped this year working together to understand things.
 - Capitalise on your classmates’ knowledge! It’s a nice symbiotic relationship.
 
+#### Acknowlegdements
+
+We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the Master of Public Health teaching team. For any questions regarding this page, please contact sphteaching2@imperial.ac.uk.
