@@ -15,13 +15,13 @@ title: Imperial MPH Course Preparation
  
 ## Value of preparation prior to your MPH <a name="general_advice"></a>
 
-The term 1 modules will give you a solid foundation in epidemiology and statistics. They also teach key principles in research methods and of public health practice. One of the strengths of our MPH is the strength of our Statistics module. This is also a challenge for our students, since it is especially fast-paced. You are required to learn two separate skill sets – Statistics and coding in R (using R to tabulate, graph and statistically analyse data).  Our students have a diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don’t panic if you haven’t, for example, studied Statistics before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1.
+The term 1 modules will give you a solid foundation in epidemiology and statistics. They also teach key principles in research methods and of public health practice. One of the strengths of our MPH is the strength of our Statistics module. This is also a challenge, since it is especially fast-paced. You are required to learn two separate skill sets – Statistics and coding in R (using R to tabulate, graph and statistically analyse data).  Our students have a diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don’t panic if you haven’t, for example, studied Statistics before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1.
 
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
 ## Learning to code data analysis in R <a name="prep_time"></a>
 
-As with everything else, you will be trained in R coding during your Statistics module(s), and we do not assume or require any prior experience. However, it can initially take a long time to solve simple problems using R, so you can make things easier on yourself by starting this process before the course. You are required to use R to tabulate, graph and analyse data, and these skills take some time to develop. Skills in coding and in statistics are useful in opening up job opportunities for you.
+As with everything else, you will be trained in R coding during your Statistics module(s), and we do not assume or require any prior experience. However, it can take time to get used to programming using R. You are required to use R to tabulate, graph and analyse data. You can make things easier on yourself by starting to learn R before the official start of the MPH course. 
 
 There are numerous free or cheap resources online for getting started. Here are a selection of the best:
 
@@ -40,7 +40,7 @@ Alternative free introduction to R for complete beginners, including installing 
 
 ## Computer set-up <a name="cpu_setup"></a>
 
-We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
+You are required to set-up R and R studio, either before you start or during the induction period. We will provide help at the start of your course as required. Here's what you need to do.
 
 You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R and R Studio.
 
@@ -55,7 +55,6 @@ Make sure you select the correct version for Windows computers, Mac computer or 
 **For windows computers**, select windows from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then look at end of line which has **base** on left. Click on install R for the first time (from end of this line). Then click on **Download R 4.1.0 for windows**. Also go back to initial window page, scroll down further and click on and install **RTools**.
 
 ### Installing RStudio
-
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
 
 
@@ -75,13 +74,35 @@ Youtube channel with stats instructional videos:
 A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively:
 **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
-This course teaches statistics as applied in R. We teach exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression on our MPH statistics module. Please IGNORE Bayesian modules are not helpful for your MPH course.
+This course teaches statistics as applied in R. We teach exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression on our MPH statistics module. Please IGNORE Bayesian modules, which are not useful for your MPH qualification.
 **[Statistics with R](https://www.coursera.org/specializations/statistics)**
 
+
 ### Statistics recommended reading list for term 1
+
 - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
 Chapters 2–5 will support what you learn in the term 1 statistics module.
 - **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
+
+
+### Statistics online resources for term 1
+
+•	The British Medical Journal has a series of articles called Statistics at Square One, which are designed to introduce basic statistical concepts to a medical audience. These can be accessed on-line from
+http://resources.bmj.com/bmj/readers/statistics-at-square-one/statistics-at-square-one (accessed 1 Aug 2021).
+
+•	There is another series of articles called Statistics Notes, also in the BMJ, which cover pretty much everything you might ever want to know (or not know) about medical statistics! See Martin Bland’s web page for a full list of articles and web links: http://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm (accessed 1 Aug 2021). Many of the topics covered in this series are beyond the scope of this module, but the following are particularly relevant:
+Altman DG, Bland JM. (1994) Quartiles, quintiles, centiles, and other quantiles. 309, 996.
+Altman DG, Bland JM. (1996) Presentation of numerical data. 312, 572.
+Altman DG, Bland JM. (1995) The normal distribution. 310, 298.
+Altman DG, Bland JM. (2005) Standard deviations and standard errors. 331, 903
+Bland JM, Altman DG. (1994) One- and two-sided tests of significance. 309, 248.
+Altman DG, Bland JM. (1995) Absence of evidence is not evidence of absence. 311, 485. 
+
+•	There is an on-line statistics book developed by David Lane at Rice University, Houston: http://onlinestatbook.com/2/index.html (accessed 1 Aug 2021). Chapters I-XI and XIV are all relevant to this module (but note that this book does not cover regression). The site also contains various applets to demonstrate different statistical concepts, and self-test questions at the end of each chapter.
+
+•	Another good online statistics book is The Little Handbook of Statistical Practice by Gerard Dallal: http://www.jerrydallal.com/LHSP/LHSP.HTM (accessed 1 Aug 2021).
+
+•	The following website provides some good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ (accessed 1 Aug 2021).
 
 
 ## Epidemiology preparation <a name="epi_advice"></a>
