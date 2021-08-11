@@ -80,15 +80,15 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 - **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
 
+
+### Statistics online resources reading list for term 1
+
 - There is an on-line statistics book developed by David Lane at Rice University, Houston: http://onlinestatbook.com/2/index.html (accessed 1 Aug 2021). Chapters I-XI and XIV are all relevant to this module (but note that this book does not cover regression). The site also contains various applets to demonstrate different statistical concepts, and self-test questions at the end of each chapter.
 
-
-### Statistics online resources for term 1
-
-•	The British Medical Journal has a series of articles called Statistics at Square One, which are designed to introduce basic statistical concepts to a medical audience. These can be accessed on-line from
+-	The British Medical Journal has a series of articles called Statistics at Square One, which are designed to introduce basic statistical concepts to a medical audience. These can be accessed on-line from
 http://resources.bmj.com/bmj/readers/statistics-at-square-one/statistics-at-square-one (accessed 1 Aug 2021).
 
-•	There is another series of articles called Statistics Notes, also in the BMJ, which cover pretty much everything you might ever want to know (or not know) about medical statistics! See Martin Bland’s web page for a full list of articles and web links: http://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm (accessed 1 Aug 2021). Many of the topics covered in this series are beyond the scope of this module, but the following are particularly relevant:
+-	There is another series of articles called Statistics Notes, also in the BMJ, which cover pretty much everything you might ever want to know (or not know) about medical statistics! See Martin Bland’s web page for a full list of articles and web links: http://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm (accessed 1 Aug 2021). Many of the topics covered in this series are beyond the scope of this module, but the following are particularly relevant:
 Altman DG, Bland JM. (1994) Quartiles, quintiles, centiles, and other quantiles. 309, 996.
 Altman DG, Bland JM. (1996) Presentation of numerical data. 312, 572.
 Altman DG, Bland JM. (1995) The normal distribution. 310, 298.
@@ -96,7 +96,7 @@ Altman DG, Bland JM. (2005) Standard deviations and standard errors. 331, 903
 Bland JM, Altman DG. (1994) One- and two-sided tests of significance. 309, 248.
 Altman DG, Bland JM. (1995) Absence of evidence is not evidence of absence. 311, 485. 
 
-•	The following website provides some good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ (accessed 1 Aug 2021).
+-	The following website provides some good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ (accessed 1 Aug 2021).
 
 
 ## Learning to code data analysis in R <a name="prep_time"></a>
