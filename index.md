@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imperial G/MPH Course Preparation
+title: Imperial (G)MPH Course Preparation
 ---
 
 # Course preparation resources. 
