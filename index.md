@@ -42,8 +42,6 @@ Make sure you select the correct version for Windows computers, Mac computer or 
 ### Installing RStudio
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
 
-From the first resource suggested, if they watch section 1 and 2, it would take about 2 hours. Do we give them more direction? To suggest section 1, steps 1-3 related with installing R and RStudio and getting oriented in RStudio. Then from section 2, step 14 as they can see for example the summary of variables in the dataset 'mtcars'. Of course, if they have time, they can do all sections 1 and 2.
-
 ### Now we recommend that you take sections 1 and 2 of the following course (about 2 hours)
 Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, guiding you around the interface. You are recommended (no need to pay - that is only required when you need a certificate). (section 3 is beyond what you are expected to learn on our MPH).
 **[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
@@ -55,7 +53,7 @@ Excellent free introduction to R for complete beginners, including installing R/
 
 We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. 
 
-**We suggest that you engage with ONE of the following items (listed as 1 to 5) if you do not know/ remember p-values and confidence intervals**
+**We suggest that you engage with ONE of the following items (listed as 1 to 7) if you do not know/ remember p-values and confidence intervals**
 
 1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**
 **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
@@ -66,10 +64,12 @@ We teach Statistics at a fast pace. If you have no prior knowledge of Statistics
 3. Youtube channel with stats instructional videos:
 **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
 
-4. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with the start of it:
+5. Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal. You might engage with the basics at the start and the sections on confidence intervals and significance tests (and possibly even linear regression - some of the book goes beyond your G/MPH Statistics module): http://www.jerrydallal.com/LHSP/LHSP.HTM (accessed 1 Aug 2021).https://www.amazon.com/dp/B00847SM6A
+
+6. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with the start of it:
 **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
-5. This course teaches statistics as applied in R. Your G/MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regression). Please IGNORE Bayesian modules, which are not useful for your MPH qualification.
+7. This course teaches statistics as applied in R. Your G/MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regression). Please IGNORE Bayesian modules, which are not useful for your MPH qualification.
 **[Statistics with R](https://www.coursera.org/specializations/statistics)**
 
 
@@ -77,7 +77,10 @@ We teach Statistics at a fast pace. If you have no prior knowledge of Statistics
 
 - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
 Chapters 2–5 will support what you learn in the term 1 statistics module.
+
 - **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
+
+- There is an on-line statistics book developed by David Lane at Rice University, Houston: http://onlinestatbook.com/2/index.html (accessed 1 Aug 2021). Chapters I-XI and XIV are all relevant to this module (but note that this book does not cover regression). The site also contains various applets to demonstrate different statistical concepts, and self-test questions at the end of each chapter.
 
 
 ### Statistics online resources for term 1
@@ -92,10 +95,6 @@ Altman DG, Bland JM. (1995) The normal distribution. 310, 298.
 Altman DG, Bland JM. (2005) Standard deviations and standard errors. 331, 903
 Bland JM, Altman DG. (1994) One- and two-sided tests of significance. 309, 248.
 Altman DG, Bland JM. (1995) Absence of evidence is not evidence of absence. 311, 485. 
-
-•	There is an on-line statistics book developed by David Lane at Rice University, Houston: http://onlinestatbook.com/2/index.html (accessed 1 Aug 2021). Chapters I-XI and XIV are all relevant to this module (but note that this book does not cover regression). The site also contains various applets to demonstrate different statistical concepts, and self-test questions at the end of each chapter.
-
-•	Another good online statistics book is The Little Handbook of Statistical Practice by Gerard Dallal: http://www.jerrydallal.com/LHSP/LHSP.HTM (accessed 1 Aug 2021).
 
 •	The following website provides some good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ (accessed 1 Aug 2021).
 
