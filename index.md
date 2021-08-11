@@ -1,48 +1,31 @@
 ---
 layout: default
-title: Imperial MPH Course Preparation
+title: Imperial G/MPH Course Preparation
 ---
 
-# Course preparation resources
+# Course preparation resources. Please set up your computer for R, before you start your G/MPH (we are happy to help with any problems you have in doing this once your course starts). If you have little Statistical knowledge, or are rusty, you may benefit from additionally engaging with some Statistical material as preparation. We teach from the absolute basics, at a fast pace for beginners.
 
 ## Table of Contents
 1. [Value of preparation prior to your MPH](#general_advice)
-2. [Learning to code data analysis in R](#prep_time)
-3. [Setting up your computer for R](#cpu_setup)
-4. [Preparing for your Statistics course](#stats_list)
-5. [Epidemiology preparation](#epi_advice)
-6. [Top tips and advice for MPH course](#toptips)
- 
+2. [Essential: Setting up your computer for R](#cpu_setup)
+3. [Preparing for your Statistics course](#stats_list)
+4. [Learning to code data analysis in R](#prep_time)
+5. [Epidemiology term 1 reading list](#epi_advice)
+
+
 ## Value of preparation prior to your MPH <a name="general_advice"></a>
 
-The term 1 modules will give you a solid foundation in epidemiology and statistics. They also teach key principles in research methods and of public health practice. One of the strengths of our MPH is the strength of our Statistics module. This is also a challenge, since it is especially fast-paced. You are required to learn two separate skill sets – Statistics and coding in R (using R to tabulate, graph and statistically analyse data).  Our students have a diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don’t panic if you haven’t, for example, studied Statistics before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1.
+The term 1 modules will give you a solid foundation in epidemiology and statistics and in coding with R. You will also learn key principles in research methods and of public health practice. One of the strengths of our MPH is the strength of our Statistics module, where you learn Statistical concepts and to perform analysis using R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, and there will always be some students with little or no experience of Statistics. Many of our students have never written a line of code in any software language. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1.
 
-With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
+With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course, in Statistics and in R coding in particular. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
-## Learning to code data analysis in R <a name="prep_time"></a>
+Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that you can run a couple of commands. We also recommend that you take some time to learn some Statistics, especially if you do not know or remember what p-values or confidence intervals.
 
-As with everything else, you will be trained in R coding during your Statistics module(s), and we do not assume or require any prior experience. However, it can take time to get used to programming using R. You are required to use R to tabulate, graph and analyse data. You can make things easier on yourself by starting to learn R before the official start of the MPH course. 
+## Essential: Setting up your computer for R <a name="cpu_setup"></a>
 
-There are numerous free or cheap resources online for getting started. Here are a selection of the best:
+You are required to **install R and R studio** before you start your G/MPH. Here's what you need to do. You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)).
 
-Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, including installing R/ RStudio and guiding you around the interface. (no need to pay - that is only required when you need a certificate). (section 3 is beyond what you are expected to learn on our MPH).
-**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
-
-Thorough guide to using R for statistics. This covers around two thirds of what we teach during your MPH, and several things that we don’t teach. We teach you t-tests, chi-squared test, linear regression and multiple regression analysis and analysis of variance (which is another name for linear regression with categorical predictor variables). (NOT COVERED: we additionally teach logistic regression and Cox regression / survival analysis)
-**[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
-
-A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively:
-**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
-
-Alternative free introduction to R for complete beginners, including installing R/ RStudio: Focus on what is useful to you on our MPH statistics module, especially Linear regression. You can produce high quality graphs in R using ggplot, which is useful for anyone using R for their dissertation (but not essential learning for MPH students). Graphs are a fun way to practice R coding. IGNORE machine learning elements. Free to take the course – you only have to pay if you want the certificate.
-**[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)**
-
-
-## Computer set-up <a name="cpu_setup"></a>
-
-You are required to set-up R and R studio, either before you start or during the induction period. We will provide help at the start of your course as required. Here's what you need to do.
-
-You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R and R Studio.
+**The following are written directions for installing R and R studio. If you prefer to watch online videos for this purpose, then note that the following guides you through this process: [Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (no need to pay - enroll for free)
 
 ### Installing R
 First download and install R (the most recent available - currently version 4.1.0) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
@@ -57,28 +40,38 @@ Make sure you select the correct version for Windows computers, Mac computer or 
 ### Installing RStudio
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
 
+From the first resource suggested, if they watch section 1 and 2, it would take about 2 hours. Do we give them more direction? To suggest section 1, steps 1-3 related with installing R and RStudio and getting oriented in RStudio. Then from section 2, step 14 as they can see for example the summary of variables in the dataset 'mtcars'. Of course, if they have time, they can do all sections 1 and 2.
 
-## Preparing for your Statistics course <a name="stats_list"></a>
+### Now we recommend that you take sections 1 and 2 of the following course (about 2 hours)
+Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, guiding you around the interface. You are recommended (no need to pay - that is only required when you need a certificate). (section 3 is beyond what you are expected to learn on our MPH).
+**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
 
-We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. Here are some useful resources:
+**For the above course, please make sure you engage with section 1, steps 1-3 and then section 2, step 14, just to check that R is installed properly**
 
-Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free.
+
+## Preparation for your Statistics course<a name="stats_list"></a>
+
+We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. 
+
+**We suggest that you engage with ONE of the following items (listed as 1 to 5) if you do not know/ remember p-values and confidence intervals**
+
+1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**
 **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
-For starting from the basics, Khan Academy also has excellent tutorials. Free, with the option of giving a donation:
+2. For starting from the basics, Khan Academy also has excellent tutorials. Free, with the option of giving a donation:
 **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
-Youtube channel with stats instructional videos:
+3. Youtube channel with stats instructional videos:
 **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
 
-A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively:
+4. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with the start of it:
 **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
-This course teaches statistics as applied in R. We teach exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression on our MPH statistics module. Please IGNORE Bayesian modules, which are not useful for your MPH qualification.
+5. This course teaches statistics as applied in R. Your G/MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regression). Please IGNORE Bayesian modules, which are not useful for your MPH qualification.
 **[Statistics with R](https://www.coursera.org/specializations/statistics)**
 
 
-### Statistics recommended reading list for term 1
+### Statistics recommended reading list for term 1 (available from Imperial College library once you start your studies)
 
 - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
 Chapters 2–5 will support what you learn in the term 1 statistics module.
@@ -105,11 +98,30 @@ Altman DG, Bland JM. (1995) Absence of evidence is not evidence of absence. 311,
 •	The following website provides some good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ (accessed 1 Aug 2021).
 
 
-## Epidemiology preparation <a name="epi_advice"></a>
+## Learning to code data analysis in R <a name="prep_time"></a>
 
-#### Recommended reading for term 1
+As with everything else, you will be trained in R coding during your Statistics module(s), and we do not assume or require any prior experience. However, it can take time to get used to programming using R. You are required to use R to tabulate, graph and analyse data during your G/MPH course. If you are keen, you might like to learn a little R before the official start of the G/MPH course. 
+
+There are numerous free or cheap resources online for getting started. Here are a selection of the best:
+
+Thorough guide to using R for statistics. This covers around two thirds of what we teach during your MPH, and several things that we don’t teach. We teach you t-tests, chi-squared test, linear regression and multiple regression analysis and analysis of variance (which is another name for linear regression with categorical predictor variables). (NOT COVERED: we additionally teach logistic regression and Cox regression / survival analysis)
+**[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
+
+A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively:
+**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
+
+Alternative free introduction to R for complete beginners, including installing R/ RStudio: Focus on what is useful to you on our MPH statistics module, especially Linear regression. You can produce high quality graphs in R using ggplot, which is useful for anyone using R for their dissertation (but not essential learning for MPH students). Graphs are a fun way to practice R coding. IGNORE machine learning elements. Free to take the course – you only have to pay if you want the certificate.
+**[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)**
+
+
+
+## Epidemiology term 1 reading list <a name="epi_advice"></a>
+
+The pace and content of your Epidemiology module is reasonable pace, and preparation prior to the course is not necessary. Nevertheless, we present your term 1 reading list. There is one free resource that you might choose to dip into. However, we suggest that you prioritise preparing for your Statistics module.
+
+#### Recommended reading for term 1 (available from Imperial College library once you start your studies)
 - **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
-- **Basic Epidemiology** Bonita et al. FREE of charge from: [https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1](https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1)
+- **Basic Epidemiology** Bonita et al. **FREE of charge** from: [https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1](https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1)
 
 #### Other good introductory epidemiology books (available from Imperial College library once you start your studies)
 - **Epidemiology(Fifth edition.).** Szklo, M. and Nieto, F.J. (2014).  Burlington, Massachusetts,Jones & Bartlett Learning (approx. £93). Available to purchase from: [https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB](https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB)
@@ -118,16 +130,7 @@ Altman DG, Bland JM. (1995) Absence of evidence is not evidence of absence. 311,
 - **Essential epidemiology: an introduction for students and health professionals.** Webb, P., Bain, C. and Page, A., 2016. . Cambridge University Press. [https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316](https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316)
 
 
-## Top Tips and advice for MPH course <a name="toptips"></a>
-
-- Previous students often engaged with preparation material. They find that headstart is incredibly worthwhile.
-- Be proactive when the course begins, ask question and use the resources that are made available to you (written and online resources, fellow students and lecturers)
-- Keep your lectures notes and your R code organised, I kept referring back to past tutorials in the project, and having a filing system from the beginning of the project made this so much quicker.
-- Don’t think you’re the only one who doesn’t understand something. There’s a huge range of pre-existing skills and knowledge in the other people in the class and inevitably you’ll know less about some stuff and more about other stuff than your pals.
-- Especially with the wide range of skill sets in the program, I had to fight my self consciousness to ask questions. Whenever I didn’t get something, other students did not understand either. When I asked simple questions, many classmates were grateful. I would have asked a few more questions had I not been worried about looking like an idiot. Lecturers appreciate receiving questions.
-- Get to know the people on the course and work with them – everyone has different strengths and will pick things up at different rates and it really helped this year working together to understand things.
-- Capitalise on your classmates’ knowledge! It’s a nice symbiotic relationship.
 
 #### Acknowlegdements
 
-We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the Master of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
+We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the Master of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>. Amended by Hilary Watt.
