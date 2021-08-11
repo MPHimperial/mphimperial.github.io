@@ -5,10 +5,10 @@ title: Imperial G/MPH Course Preparation
 
 # Course preparation resources. 
 
-Please set up your computer for R, before you start your G/MPH (we are happy to help with any problems you have in doing this once your course starts). If you have little Statistical knowledge, or are rusty, you may benefit from additionally engaging with some Statistical material as preparation. We teach from the absolute basics, at a fast pace.
+Please set up your computer for R, before you start your (G)MPH (we are happy to help with any problems you have in doing this once your course starts). If you have little Statistical knowledge, or are rusty, you may benefit from additionally engaging with some Statistical material as preparation. We teach from the absolute basics, at a fast pace.
 
 ## Table of Contents
-1. [Value of preparation prior to your MPH](#general_advice)
+1. [Value of preparation prior to your (G)MPH](#general_advice)
 2. [Essential: Setting up your computer for R](#cpu_setup)
 3. [Preparing for your Statistics course](#stats_list)
 4. [Learning to code data analysis in R](#prep_time)
@@ -17,15 +17,15 @@ Please set up your computer for R, before you start your G/MPH (we are happy to 
 
 ## Value of preparation prior to your MPH <a name="general_advice"></a>
 
-The term 1 modules will give you a solid foundation in epidemiology and statistics and in coding with R. You will also learn key principles in research methods and of public health practice. One of the strengths of our MPH is the strength of our Statistics module, where you learn Statistical concepts and to perform analysis using R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, and there will always be some students with little or no experience of Statistics. Many of our students have never written a line of code in any software language. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1.
+Your core Statistics module (also called specialisation) will give you a solid foundation in statistics and in coding with R (in term 1 for MPH students and taken during term 2 for GMPH students). One of the strengths of our (G)MPH is the strength of our Statistics module, where you learn Statistical concepts and to perform analysis using R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, and there will always be some students with little or no experience of Statistics. Many of our students have never written a line of code in any software language. This module starts with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of your Statistcs module.
 
-With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course, in Statistics and in R coding in particular. This page aims to give you some pointers on how to spend that pre-course preparation time.
+With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course, in Statistics and in R coding. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
-Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that you can run a couple of commands. We also recommend that you take some time to learn some Statistics, especially if you do not know or remember what p-values or confidence intervals.
+Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that you can run a couple of commands. We also recommend that you take some time to learn some Statistics, especially if you do not know or remember the interpretation of p-values and confidence intervals.
 
 ## Essential: Setting up your computer for R <a name="cpu_setup"></a>
 
-You are required to **install R and R studio** before you start your G/MPH. Here's what you need to do. You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)).
+You are required to **install R and R studio** before you start your (G)MPH. Here's what you need to do. You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)).
 
 **The following are written directions for installing R and R studio. If you prefer to watch online videos for this purpose, then note that the following guides you through this process: [Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (no need to pay - enroll for free)
 
@@ -53,24 +53,19 @@ Excellent free introduction to R for complete beginners, including installing R/
 
 We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. 
 
-**We suggest that you engage with ONE of the following items (listed as 1 to 7) if you do not know/ remember p-values and confidence intervals**
+**We suggest that you engage with ONE of the following items (listed as 1 to 6) if you do not know/ remember p-values and confidence intervals**
 
-1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**
-**[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
+1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
-2. For starting from the basics, Khan Academy also has excellent tutorials. Free, with the option of giving a donation:
-**[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
+2. For starting from the basics, Khan Academy also has excellent tutorials. Free, with the option of giving a donation: **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
-3. Youtube channel with stats instructional videos:
-**[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
+3. **Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal**. You might engage with the basics at the start and the sections on confidence intervals and significance tests (and possibly even linear regression - some of the book goes beyond your G/MPH Statistics module): http://www.jerrydallal.com/LHSP/LHSP.HTM (accessed 1 Aug 2021).https://www.amazon.com/dp/B00847SM6A
 
-5. Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal. You might engage with the basics at the start and the sections on confidence intervals and significance tests (and possibly even linear regression - some of the book goes beyond your G/MPH Statistics module): http://www.jerrydallal.com/LHSP/LHSP.HTM (accessed 1 Aug 2021).https://www.amazon.com/dp/B00847SM6A
+4. Youtube channel with stats instructional videos: **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
 
-6. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with the start of it:
-**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
+5. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with part of it: **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
-7. This course teaches statistics as applied in R. Your G/MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regression). Please IGNORE Bayesian modules, which are not useful for your MPH qualification.
-**[Statistics with R](https://www.coursera.org/specializations/statistics)**
+6. This course teaches statistics as applied in R. Your (G)MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regression). Please IGNORE Bayesian modules, which are not useful for your core (G)MPH Statistics module. **[Statistics with R](https://www.coursera.org/specializations/statistics)**
 
 
 ### Statistics recommended reading list for term 1 (available from Imperial College library once you start your studies)
