@@ -3,7 +3,9 @@ layout: default
 title: Imperial G/MPH Course Preparation
 ---
 
-# Course preparation resources. Please set up your computer for R, before you start your G/MPH (we are happy to help with any problems you have in doing this once your course starts). If you have little Statistical knowledge, or are rusty, you may benefit from additionally engaging with some Statistical material as preparation. We teach from the absolute basics, at a fast pace for beginners.
+# Course preparation resources. 
+
+Please set up your computer for R, before you start your G/MPH (we are happy to help with any problems you have in doing this once your course starts). If you have little Statistical knowledge, or are rusty, you may benefit from additionally engaging with some Statistical material as preparation. We teach from the absolute basics, at a fast pace for beginners.
 
 ## Table of Contents
 1. [Value of preparation prior to your MPH](#general_advice)
