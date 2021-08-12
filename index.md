@@ -21,7 +21,7 @@ Your core Statistics module (also called specialisation) will give you a solid f
 
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course, in Statistics and in R coding. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
-Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that you can run a couple of commands. We also recommend that you take some time to learn some Statistics, especially if you do not know or remember the interpretation of p-values and confidence intervals.
+Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that you can run a couple of commands. 
 
 ## Essential: Setting up your computer for R <a name="cpu_setup"></a>
 
@@ -51,9 +51,9 @@ Excellent free introduction to R for complete beginners, including installing R/
 
 ## Preparation for your Statistics course<a name="stats_list"></a>
 
-We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. 
+We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. This is especially the case if you do not know or remember what p-values are, or what confidence intervals are.
 
-**We suggest that you engage with ONE of the following items (listed as 1 to 6) if you do not know/ remember p-values and confidence intervals**
+**You might choose to engage with ONE of the following items (listed as 1 to 6)**
 
 1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
