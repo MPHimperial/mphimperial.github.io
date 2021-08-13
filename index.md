@@ -51,7 +51,7 @@ Excellent free introduction to R for complete beginners, including installing R/
 
 ## Preparation for your Statistics course<a name="stats_list"></a>
 
-We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. This is especially the case if you do not know or remember what p-values are, or what confidence intervals are.
+We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. For instance, if you are not familiar with or don't recall what p-values and confidence intervals are, please review the following resources to familiarise yourselves.
 
 **You might choose to engage with ONE of the following items (listed as 1 to 6)**
 
