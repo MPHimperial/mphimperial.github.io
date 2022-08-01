@@ -1,95 +1,70 @@
 ---
 layout: default
-title: Imperial (G)MPH Course Preparation
+title: Imperial G/MPH Course Preparation
 ---
 
-# Course preparation resources. 
+# Essential Preparation Prior to your G/MPH Course. 
 
-Please set up your computer for R, before you start your (G)MPH (we are happy to help with any problems you have in doing this once your course starts). If you have little Statistical knowledge, or are rusty, you may benefit from additionally engaging with some Statistical material as preparation. We teach from the absolute basics, at a fast pace.
+So that you can engage with our fast course from day one, we ask you to install R onto your computer before your G/MPH course starts. Current students ask us to emphasise the value of further preparation for your statistics module, since we cater for students who have little prior knowledge and some who have extensive prior knowledge. We teach from the absolute basics, at a fast pace. If you have not studied statistics before, or our rusty, some preparation is of great value in helping you thrive, in this fast paced course.
 
 ## Table of Contents
-1. [Value of preparation prior to your (G)MPH](#general_advice)
+1. [Value of preparation prior to your G/MPH](#general_advice)
 2. [Essential: Setting up your computer for R](#cpu_setup)
 3. [Preparing for your Statistics course](#stats_list)
 4. [Learning to code data analysis in R](#prep_time)
 5. [Epidemiology term 1 reading list](#epi_advice)
 
+## Current students urge new students who are not confident in basic statistics to prepare for their statistics module BEFORE starting their G/MPH <a name="general_advice"></a>
 
-## Value of preparation prior to your MPH <a name="general_advice"></a>
+Your core Statistics module/ specialisation will give you a solid foundation in statistics and in coding with R (term 1 for MPH students and term 2 for GMPH). One of the strengths of our G/MPH is the scope of our Statistics module, where you learn Statistics and analysis with R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, including some with negligible Statistics or software coding experience. This module starts with the basics, yet to avoid stress from the very fast pace, some preparation is strongly recommended.
 
-Your core Statistics module (also called specialisation) will give you a solid foundation in statistics and in coding with R (in term 1 for MPH students and taken during term 2 for GMPH students). One of the strengths of our (G)MPH is the strength of our Statistics module, where you learn Statistical concepts and to perform analysis using R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, and there will always be some students with little or no experience of Statistics. Many of our students have never written a line of code in any software language. This module starts with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of your Statistcs module.
-
-With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course, in Statistics and in R coding. This page aims to give you some pointers on how to spend that pre-course preparation time.
-
-Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that you can run a couple of commands. 
+Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that this is working correctly. 
 
 ## Essential: Setting up your computer for R <a name="cpu_setup"></a>
 
-You are required to **install R and R studio** before you start your (G)MPH. Here's what you need to do. You will be using R for your Statistics module, and some of you will also use it for your dissertations. (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)).
+You are required to **install R and R studio** before you start your G/MPH. Here's what you need to do. You will use R for your Statistics module, and (according to topic chosen) for your dissertation. Here is R's web page: [https://www.r-project.org/about.html](https://www.r-project.org/about.html)).
 
-**The following are written directions for installing R and R studio. If you prefer to watch online videos for this purpose, then note that the following guides you through this process: [Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (no need to pay - enroll for free)
+**Instructions for installing R and R studio. 
+[Video instructuions are here: Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (no need to pay - enroll for free)
 
 ### Installing R
-First download and install R (the most recent available - currently version 4.1.0) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
+Download and install R (the most recent available - currently version 4.2.1) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
 You are recommended to use a page in your own country, so please use the following when based in the United Kingdom/ London. **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**
 
-Make sure you select the correct version for Windows computers, Mac computer or linux computer. 
+**For Mac computers**, select mac from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then click and install R-4.2.1.pkg. Then scroll towards the bottom of the page and also install tools (under subdirectories heading).
 
-**For Mac computers**, select mac from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then click and install R-4.1.0.pkg. Then scroll towards the bottom of the page and also install tools (under subdirectories heading).
-
-**For windows computers**, select windows from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then look at end of line which has **base** on left. Click on install R for the first time (from end of this line). Then click on **Download R 4.1.0 for windows**. Also go back to initial window page, scroll down further and click on and install **RTools**.
+**For windows computers**, select windows from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then look at end of line which has **base** on left. Click on install R for the first time (from end of this line). Then click on **Download R 4.2.1 for windows**. Also go back to initial window page, scroll down further and click on and install **RTools**.
 
 ### Installing RStudio
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
 
-### Now we recommend that you take sections 1 and 2 of the following course (about 2 hours)
-Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, guiding you around the interface. You are recommended (no need to pay - that is only required when you need a certificate). (section 3 is beyond what you are expected to learn on our MPH).
+### Now take sections 1 and 2 of the following course (about 2 hours)
+Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, guiding you around the interface. (free - payment is for a certificate that you don't need). (section 3 is beyond what is needed).
 **[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
 
-**For the above course, please make sure you engage with section 1, steps 1-3 and then section 2, step 14, just to check that R is installed properly**
+**To simply check that R is installed correctly, engage with section 1, steps 1-3 and section 2, step 14. However, you are strongly recommended to take all of parts 1 and 2, ideally twice**
 
+## Strongly Recommended Preparation for your Statistics course<a name="stats_list"></a>
 
-## Preparation for your Statistics course<a name="stats_list"></a>
-
-We teach Statistics at a fast pace. If you have no prior knowledge of Statistics, or if your stats is a bit rusty, you can make things easier on yourself by engaging with some course material before you start. For instance, if you are not familiar with or don't recall what p-values and confidence intervals are, please review the following resources to familiarise yourselves.
+If you have no prior knowledge of Statistics, or if your stats is a bit rusty, currently students urge you to make things easier on yourself by engaging with some course material before you start. If you are not familiar with or don't recall what p-values and confidence intervals are, please review the following resources to familiarise yourselves.
 
 **You might choose to engage with ONE of the following items (listed as 1 to 6)**
 
-1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
+1. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with part of it: **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
-2. For starting from the basics, Khan Academy also has excellent tutorials. Free, with the option of giving a donation: **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
+2. This course teaches statistics as applied in R. Your G/MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regressio - IGNORE Bayesian modules). **[Statistics with R](https://www.coursera.org/specializations/statistics)
 
-3. **Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal**. You might engage with the basics at the start and the sections on confidence intervals and significance tests (and possibly even linear regression - some of the book goes beyond your G/MPH Statistics module): http://www.jerrydallal.com/LHSP/LHSP.HTM (accessed 1 Aug 2021).https://www.amazon.com/dp/B00847SM6A
+4. **1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
-4. Youtube channel with stats instructional videos: **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
+3. For starting from the basics, Khan Academy also has excellent tutorials. Free, donations accepted: **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
-5. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with part of it: **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
+4. **Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal**. You might engage with the basics at the start and the sections on confidence intervals, significance tests and linear regression - (then this book diverges from your G/MPH needs): http://www.jerrydallal.com/LHSP/LHSP.HTM .https://www.amazon.com/dp/B00847SM6A
 
-6. This course teaches statistics as applied in R. Your (G)MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regression). Please IGNORE Bayesian modules, which are not useful for your core (G)MPH Statistics module. **[Statistics with R](https://www.coursera.org/specializations/statistics)**
+5. Youtube channel with stats instructional videos: **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
 
+6. If you want to buy a printed book to cover your statistics module, with little formula: **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719). Chapters 2–5 will support what you learn in the term 1 statistics module. (available from Imperial College library once you start your studies)
 
-### Statistics recommended reading list for term 1 (available from Imperial College library once you start your studies)
-
-- **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
-Chapters 2–5 will support what you learn in the term 1 statistics module.
-
-- **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
-
-
-### Statistics online resources reading list for term 1
-
-- There is an on-line statistics book developed by David Lane at Rice University, Houston: http://onlinestatbook.com/2/index.html (accessed 1 Aug 2021). Chapters I-XI and XIV are all relevant to this module (but note that this book does not cover regression). The site also contains various applets to demonstrate different statistical concepts, and self-test questions at the end of each chapter.
-
--	The British Medical Journal has a series of articles called Statistics at Square One, which are designed to introduce basic statistical concepts to a medical audience. These can be accessed on-line from
-http://resources.bmj.com/bmj/readers/statistics-at-square-one/statistics-at-square-one (accessed 1 Aug 2021).
-
--	There is another series of articles called Statistics Notes, also in the BMJ, which cover pretty much everything you might ever want to know (or not know) about medical statistics! See Martin Bland’s web page for a full list of articles and web links: http://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm (accessed 1 Aug 2021). Many of the topics covered in this series are beyond the scope of this module, but the following are particularly relevant:
-Altman DG, Bland JM. (1994) Quartiles, quintiles, centiles, and other quantiles. 309, 996.
-Altman DG, Bland JM. (1996) Presentation of numerical data. 312, 572.
-Altman DG, Bland JM. (1995) The normal distribution. 310, 298.
-Altman DG, Bland JM. (2005) Standard deviations and standard errors. 331, 903
-Bland JM, Altman DG. (1994) One- and two-sided tests of significance. 309, 248.
-Altman DG, Bland JM. (1995) Absence of evidence is not evidence of absence. 311, 485. 
+7. If you want to buy a printed book to cover your statistics module that provides slightly more formulas: **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book, please review chapters 4-7. This includes multiple choice and other questions at the end of chapters, useful for revision. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. (available from Imperial College library once you start your studies)
 
 -	The following website provides some good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ (accessed 1 Aug 2021).
 
