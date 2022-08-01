@@ -42,7 +42,8 @@ R Studio is an integrated development environment for R. You can download the Op
 Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, guiding you around the interface. (free - payment is for a certificate that you don't need). (section 3 is beyond what is needed).
 **[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
 
-**To simply check that R is installed correctly, engage with section 1, steps 1-3 and section 2, step 14. However, you are strongly recommended to take all of parts 1 and 2, ideally twice**
+**To simply check that R is installed correctly, engage with section 1, steps 1-3 and section 2, step 14. However, you are strongly recommended to take parts 1 and 2 as a whole, ideally twice**
+
 
 ## Strongly Recommended Preparation for your Statistics course<a name="stats_list"></a>
 
@@ -50,49 +51,34 @@ If you have no prior knowledge of Statistics, or if your stats is a bit rusty, c
 
 **You might choose to engage with ONE of the following items (listed as 1 to 6)**
 
-1. A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively, so you could optionally engage with part of it: **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
+1. Learn R and Statistics simultaneously, this course covers much of your MPH Statistics module in outline, but you are required to engage with some more complex material. You might want to study half of this course: **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
-2. This course teaches statistics as applied in R. Your G/MPH Statistics module covers exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression (plus logistic and Cox regressio - IGNORE Bayesian modules). **[Statistics with R](https://www.coursera.org/specializations/statistics)
+2. Learn R and statistics simultaneously. Please take exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression modules (Bayesian modules are not relevant). **[Statistics with R](https://www.coursera.org/specializations/statistics)
 
-4. **1. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. **Highly recommended**: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
+4. **Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. Highly recommended**: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
 3. For starting from the basics, Khan Academy also has excellent tutorials. Free, donations accepted: **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
 4. **Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal**. You might engage with the basics at the start and the sections on confidence intervals, significance tests and linear regression - (then this book diverges from your G/MPH needs): http://www.jerrydallal.com/LHSP/LHSP.HTM .https://www.amazon.com/dp/B00847SM6A
 
-5. Youtube channel with stats instructional videos: **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
+5. Good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ .
 
-6. If you want to buy a printed book to cover your statistics module, with little formula: **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719). Chapters 2–5 will support what you learn in the term 1 statistics module. (available from Imperial College library once you start your studies)
+6. If you want to buy a printed book to cover your statistics module, with little maths: **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719). Chapters 2–5 will support what you learn in the term 1 statistics module. (available from Imperial College library once you start your studies)
 
 7. If you want to buy a printed book to cover your statistics module that provides slightly more formulas: **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book, please review chapters 4-7. This includes multiple choice and other questions at the end of chapters, useful for revision. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. (available from Imperial College library once you start your studies)
 
--	The following website provides some good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ (accessed 1 Aug 2021).
-
-
-## Learning to code data analysis in R <a name="prep_time"></a>
-
-As with everything else, you will be trained in R coding during your Statistics module(s), and we do not assume or require any prior experience. However, it can take time to get used to programming using R. You are required to use R to tabulate, graph and analyse data during your G/MPH course. If you are keen, you might like to learn a little R before the official start of the G/MPH course. 
-
-There are numerous free or cheap resources online for getting started. Here are a selection of the best:
-
-Thorough guide to using R for statistics. This covers around two thirds of what we teach during your MPH, and several things that we don’t teach. We teach you t-tests, chi-squared test, linear regression and multiple regression analysis and analysis of variance (which is another name for linear regression with categorical predictor variables). (NOT COVERED: we additionally teach logistic regression and Cox regression / survival analysis)
+8. Thorough guide to using R for statistics. You can learn t-tests, chi-squared test, linear regression and multiple regression analysis and analysis of variance (which is another name for linear regression with categorical predictor variables) as a start for your G/MPH module.
 **[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
-
-A great way to learn R and Statistics simultaneously. This course covers the whole of your MPH Statistics module fairly comprehensively:
-**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
-
-Alternative free introduction to R for complete beginners, including installing R/ RStudio: Focus on what is useful to you on our MPH statistics module, especially Linear regression. You can produce high quality graphs in R using ggplot, which is useful for anyone using R for their dissertation (but not essential learning for MPH students). Graphs are a fun way to practice R coding. IGNORE machine learning elements. Free to take the course – you only have to pay if you want the certificate.
-**[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)**
 
 
 
 ## Epidemiology term 1 reading list <a name="epi_advice"></a>
 
-The pace and content of your Epidemiology module is reasonable pace, and preparation prior to the course is not necessary. Nevertheless, we present your term 1 reading list. There is one free resource that you might choose to dip into. However, we suggest that you prioritise preparing for your Statistics module.
+It is fine to read this material when you start the course, but this is provided just in case you choose to prepare anyway. 
 
-#### Recommended reading for term 1 (available from Imperial College library once you start your studies)
-- **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
 - **Basic Epidemiology** Bonita et al. **FREE of charge** from: [https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1](https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1)
+ 
+#### Recommended reading for term 1: **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880) (available from Imperial College library once you start your studies)
 
 #### Other good introductory epidemiology books (available from Imperial College library once you start your studies)
 - **Epidemiology(Fifth edition.).** Szklo, M. and Nieto, F.J. (2014).  Burlington, Massachusetts,Jones & Bartlett Learning (approx. £93). Available to purchase from: [https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB](https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB)
