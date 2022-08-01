@@ -54,11 +54,11 @@ If you have no prior knowledge of Statistics, or if your stats is a bit rusty, c
 
 2. Learn R and statistics simultaneously. Please take exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression modules (Bayesian modules are not relevant). **[Statistics with R](https://www.coursera.org/specializations/statistics)
 
-4. **Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. Highly recommended**: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
+4. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. Highly recommended: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
 3. For starting from the basics, Khan Academy also has excellent tutorials. Free, donations accepted: **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
-4. **Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal**. You might engage with the basics at the start and the sections on confidence intervals, significance tests and linear regression - (then this book diverges from your G/MPH needs): http://www.jerrydallal.com/LHSP/LHSP.HTM .https://www.amazon.com/dp/B00847SM6A
+4. Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal. Engage with the basics and sections on confidence intervals, significance tests and linear regression (then this book diverges from your G/MPH needs): http://www.jerrydallal.com/LHSP/LHSP.HTM .https://www.amazon.com/dp/B00847SM6A
 
 5. Good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ .
 
@@ -69,7 +69,7 @@ If you have no prior knowledge of Statistics, or if your stats is a bit rusty, c
 8. Thorough guide to using R for statistics. You can learn t-tests, chi-squared test, linear regression and multiple regression analysis and analysis of variance (which is another name for linear regression with categorical predictor variables) as a start for your G/MPH module.
 **[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
 
-
+9. Videos explaining basic concepts, plus a few comedy videos. [https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA](https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA).
 
 ## Epidemiology term 1 reading list <a name="epi_advice"></a>
 
