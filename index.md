@@ -8,11 +8,10 @@ title: Imperial G/MPH Course Preparation
 So that you can engage with our fast course from day one, we ask you to install R onto your computer before your G/MPH course starts. Current students ask us to emphasise the value of further preparation for your statistics module, since we cater for students who have little prior knowledge and some who have extensive prior knowledge. We teach from the absolute basics, at a fast pace. If you have not studied statistics before, or our rusty, some preparation is of great value in helping you thrive, in this fast paced course.
 
 ## Table of Contents
-1. [Value of preparation prior to your G/MPH](#general_advice)
+1. [Current students urge some of you to prepare prior to your G/MPH](#general_advice)
 2. [Essential: Setting up your computer for R](#cpu_setup)
-3. [Preparing for your Statistics course](#stats_list)
-4. [Learning to code data analysis in R](#prep_time)
-5. [Epidemiology term 1 reading list](#epi_advice)
+3. [Strongly Recommended Preparation for your Statistics course](#stats_list)
+4. [Epidemiology term 1 reading list](#epi_advice)
 
 ## Current students urge new students who are not confident in basic statistics to prepare for their statistics module BEFORE starting their G/MPH <a name="general_advice"></a>
 
