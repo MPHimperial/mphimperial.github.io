@@ -8,12 +8,12 @@ title: Imperial G/MPH Course Preparation
 So that you can engage with our fast course from day one, we ask you to install R onto your computer before your G/MPH course starts. Current students ask us to emphasise the value of further preparation for your statistics module, since we cater for students who have little prior knowledge and some who have extensive prior knowledge. We teach from the absolute basics, at a fast pace. If you have not studied statistics before, or our rusty, some preparation is of great value in helping you thrive, in this fast paced course.
 
 ## Table of Contents
-1. [Current students urge some of you to prepare prior to your G/MPH](#general_advice)
+1. [General Advice](#general_advice)
 2. [Essential: Setting up your computer for R](#cpu_setup)
 3. [Strongly Recommended Preparation for your Statistics course](#stats_list)
 4. [Epidemiology term 1 reading list](#epi_advice)
 
-## Current students urge new students who are not confident in basic statistics to prepare for their statistics module BEFORE starting their G/MPH <a name="general_advice"></a>
+## General Advice <a name="general_advice"></a>
 
 Your core Statistics module/ specialisation will give you a solid foundation in statistics and in coding with R (term 1 for MPH students and term 2 for GMPH). One of the strengths of our G/MPH is the scope of our Statistics module, where you learn Statistics and analysis with R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, including some with negligible Statistics or software coding experience. This module starts with the basics, yet to avoid stress from the very fast pace, some preparation is strongly recommended.
 
