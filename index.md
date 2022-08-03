@@ -5,7 +5,7 @@ title: Imperial G/MPH Course Preparation
 
 # Essential Preparation Prior to your G/MPH Course. 
 
-So that you can engage with our fast course from day one, we ask you to install R onto your computer before your G/MPH course starts. Current students ask us to emphasise the value of further preparation for your statistics module, since we cater for students who have little prior knowledge and some who have extensive prior knowledge. We teach from the absolute basics, at a fast pace. If you have not studied statistics before, or our rusty, some preparation is of great value in helping you thrive, in this fast paced course.
+So you may engage effectively with our fast paced statistics module from day one, we ask you to install R onto your computer before your G/MPH course starts. Current students ask us to emphasise the value of further preparation for your statistics module, since we cater for students with a range of levels of prior knowledge and experiences. We teach from the absolute basics, but at a fast pace. If you have not studied statistics before, or are rusty, some preparation is of great value in helping you thrive, and make the most of this fast-paced course.
 
 ## Table of Contents
 1. [General Advice](#general_advice)
@@ -15,7 +15,7 @@ So that you can engage with our fast course from day one, we ask you to install 
 
 ## General Advice <a name="general_advice"></a>
 
-Your core Statistics module/ specialisation will give you a solid foundation in statistics and in coding with R (term 1 for MPH students and term 2 for GMPH). One of the strengths of our G/MPH is the scope of our Statistics module, where you learn Statistics and analysis with R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, including some with negligible Statistics or software coding experience. This module starts with the basics, yet to avoid stress from the very fast pace, some preparation is strongly recommended.
+Your core Statistics module/ specialisation aims to give you a solid foundation in statistics and in coding with R (term 1 for MPH students and term 2 for GMPH). One of the strengths of our G/MPH is the scope of our Statistics module, where you learn Statistics and analysis with R software. This is also a challenge, since it is fast-paced. Our students have a diverse range of backgrounds, with Statistics and software coding experience. This module starts with the basics and aims to cater for all levels of experiences; still to avoid stress from the very fast pace, some preparation is strongly recommended.
 
 Before you come, **we ask you to install R/ Rstudio onto your computers**, and check that this is working correctly. 
 
