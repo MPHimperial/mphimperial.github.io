@@ -10,7 +10,7 @@ So you may engage effectively with our fast paced statistics module from day one
 ## Table of Contents
 1. [General Advice](#general_advice)
 2. [Essential: Setting up your computer for R](#cpu_setup)
-3. [Strongly Recommended Preparation for your Statistics course](#stats_list)
+3. [Recommended Preparation for your Statistics course](#stats_list)
 4. [Epidemiology term 1 reading list](#epi_advice)
 
 ## General Advice <a name="general_advice"></a>
@@ -24,7 +24,7 @@ Before you come, **we ask you to install R/ Rstudio onto your computers**, and c
 You are required to **install R and R studio** before you start your G/MPH. Here's what you need to do. You will use R for your Statistics module, and (according to topic chosen) for your dissertation. Here is R's web page: [https://www.r-project.org/about.html](https://www.r-project.org/about.html)).
 
 **Instructions for installing R and R studio. 
-[Video instructuions are here: Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (no need to pay - enroll for free)
+[Video instructions are here: Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (no need to pay - enroll for free)
 
 ### Installing R
 Download and install R (the most recent available - currently version 4.2.1) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
@@ -37,18 +37,19 @@ You are recommended to use a page in your own country, so please use the followi
 ### Installing RStudio
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
 
-### Now take sections 1 and 2 of the following course (about 2 hours)
-Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, guiding you around the interface. (free - payment is for a certificate that you don't need). (section 3 is beyond what is needed).
-**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
+### To check that R/ RStudio are correctly installed, take the following course section 1 (steps 1-3) and section 2 (step 14).  
+**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (free - since you don't need a certificate)
 
-**To simply check that R is installed correctly, engage with section 1, steps 1-3 and section 2, step 14. However, you are strongly recommended to take parts 1 and 2 as a whole, ideally twice**
-
-
-## Strongly Recommended Preparation for your Statistics course<a name="stats_list"></a>
+## Recommended Preparation for your Statistics course<a name="stats_list"></a>
 
 If you have no prior knowledge of Statistics, or if your stats is a bit rusty, currently students urge you to make things easier on yourself by engaging with some course material before you start. If you are not familiar with or don't recall what p-values and confidence intervals are, please review the following resources to familiarise yourselves.
 
 **You might choose to engage with ONE of the following items (listed as 1 to 6)**
+
+### To check that R/ RStudio are correctly installed, take the following course, section 1 (steps 1-3) and section 2 (step 14).  
+Excellent free introduction to R for complete beginners, including installing R/ RStudio: Sections 1 and 2 start from the very beginning, guiding you around the interface. (free - payment is for a certificate that you don't need). (section 3 is beyond what is needed).
+**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
+
 
 1. Learn R and Statistics simultaneously, this course covers much of your MPH Statistics module in outline, but you are required to engage with some more complex material. You might want to study half of this course: **[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
 
@@ -71,22 +72,7 @@ If you have no prior knowledge of Statistics, or if your stats is a bit rusty, c
 
 9. Videos explaining basic concepts, plus a few comedy videos. [https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA](https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA).
 
-## Epidemiology term 1 reading list <a name="epi_advice"></a>
-
-It is fine to read this material when you start the course, but this is provided just in case you choose to prepare anyway. 
-
-- **Basic Epidemiology** Bonita et al. **FREE of charge** from: [https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1](https://apps.who.int/iris/bitstream/handle/10665/43541/9241547073_eng.pdf?sequence=1)
- 
-#### Recommended reading for term 1: **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880) (available from Imperial College library once you start your studies)
-
-#### Other good introductory epidemiology books (available from Imperial College library once you start your studies)
-- **Epidemiology(Fifth edition.).** Szklo, M. and Nieto, F.J. (2014).  Burlington, Massachusetts,Jones & Bartlett Learning (approx. £93). Available to purchase from: [https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB](https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB)
-- **Gordis Epidemiology.** Gordis, L. (2014).  Philadelphia, PA: Elsevier Saunders (approx. £35). Available to purchase from: [https://www.uk.elsevierhealth.com/catalogsearch/result/?product_kind=5449&q=gordis+epidemiology](https://www.uk.elsevierhealth.com/catalogsearch/result/?product_kind=5449&q=gordis+epidemiology)
-- **Epidemiology: Beyond the Basics.** Ward H, Toledano M, Shaddick G, Davies B, Elliott P (2012) . Oxford University Press, Oxford UK. (Amazon price £26).
-- **Essential epidemiology: an introduction for students and health professionals.** Webb, P., Bain, C. and Page, A., 2016. . Cambridge University Press. [https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316](https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316)
-
-
 
 #### Acknowlegdements
 
-We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the Master of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>. Amended by Hilary Watt.
+The maintenance of this page is done by the Master of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>. Compiled by Hilary Watt and colleagues.
