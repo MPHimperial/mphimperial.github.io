@@ -82,13 +82,13 @@ You will be extensively using R throughout the year, a widely used programming l
 
 ### Installing R
 
-First download and install R (version 3.6.1) from the CRAN.
+First download and install R (version 4.2.1) from the CRAN.
 
 [R for Mac OS X](https://cran.r-project.org/bin/macosx/)
 
 For Mac users
 
-[Download R-4.0.2 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)
+[Download R-4.2.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)
 
 For Windows users
 
