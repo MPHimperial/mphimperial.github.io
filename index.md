@@ -27,8 +27,9 @@ You are required to **install R and R studio** before you start your G/MPH. Here
 [Video instructions are here: Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)** (no need to pay - enroll for free)
 
 ### Installing R
-Download and install R (the most recent available - currently version 4.2.1) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
+Download and install R (the most recent available - currently version 4.4.1) from the CRAN. **[https://cran.r-project.org/](https://cran.r-project.org/)**
 You are recommended to use a page in your own country, so please use the following when based in the United Kingdom/ London. **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**
+If you have issues with the Imperial link and are based in the UK, use any of the other options provided. 
 
 **For Mac computers**, select mac from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then click and install R-4.2.1.pkg. Then scroll towards the bottom of the page and also install tools (under subdirectories heading).
 
@@ -55,24 +56,24 @@ Excellent free introduction to R for complete beginners, including installing R/
 
 2. Learn R and statistics simultaneously. Please take exploratory data analysis, statistical inference, statistical hypothesis testing and linear regression modules (Bayesian modules are not relevant). **[Statistics with R](https://www.coursera.org/specializations/statistics)
 
-4. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. Highly recommended: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
+3. Simple video explanations of core concepts in Statistics: Dr Nic’s Maths and Stats: Free. Highly recommended: **[Dr Nic's Stats videos](https://www.bing.com/videos/search?q=dr+nic+stats+youtube&qpvt=dr+nic+stats+youtube&FORM=VDRE)**
 
-3. For starting from the basics, Khan Academy also has excellent tutorials. Free, donations accepted: **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
+4. For starting from the basics, Khan Academy also has excellent tutorials. Free, donations accepted: **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
-4. Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal. Engage with the basics and sections on confidence intervals, significance tests and linear regression (then this book diverges from your G/MPH needs): http://www.jerrydallal.com/LHSP/LHSP.HTM .https://www.amazon.com/dp/B00847SM6A
+5. Good online statistics book: The Little Handbook of Statistical Practice by Gerard Dallal. Engage with the basics and sections on confidence intervals, significance tests and linear regression (then this book diverges from your G/MPH needs): http://www.jerrydallal.com/LHSP/LHSP.HTM .https://www.amazon.com/dp/B00847SM6A
 
-5. Good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ .
+6. Good intuitive explanations of basic statistical concepts that will be covered in this module, plus lots of interactive learning tools http://www.seeingstatistics.com/ .
 
-6. If you want to buy a printed book to cover your statistics module, with little maths: **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719). Chapters 2–5 will support what you learn in the term 1 statistics module. (available from Imperial College library once you start your studies)
+7. If you want to buy a printed book to cover your statistics module, with little maths: **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719). Chapters 2–5 will support what you learn in the term 1 statistics module. (available from Imperial College library once you start your studies)
 
-7. If you want to buy a printed book to cover your statistics module that provides slightly more formulas: **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book, please review chapters 4-7. This includes multiple choice and other questions at the end of chapters, useful for revision. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. (available from Imperial College library once you start your studies)
+8. If you want to buy a printed book to cover your statistics module that provides slightly more formulas: **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book, please review chapters 4-7. This includes multiple choice and other questions at the end of chapters, useful for revision. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) contains useful additional material. (available from Imperial College library once you start your studies)
 
-8. Thorough guide to using R for statistics. You can learn t-tests, chi-squared test, linear regression and multiple regression analysis and analysis of variance (which is another name for linear regression with categorical predictor variables) as a start for your G/MPH module.
+9. Thorough guide to using R for statistics. You can learn t-tests, chi-squared test, linear regression and multiple regression analysis and analysis of variance (which is another name for linear regression with categorical predictor variables) as a start for your G/MPH module.
 **[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
 
-9. Videos explaining basic concepts, plus a few comedy videos. [https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA](https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA).
+10. Videos explaining basic concepts, plus a few comedy videos. [https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA](https://www.youtube.com/channel/UCzFWQHuAzQiFtAl5cNKCqQA).
 
 
 #### Acknowlegdements
 
-The maintenance of this page is done by the Master of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>. Compiled by Hilary Watt and colleagues.
+The maintenance of this page is done by the Master of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>. Compiled by Hilary Watt and colleagues, last updated by Samantha Alvarez Madrazo on 25/9/2024.
