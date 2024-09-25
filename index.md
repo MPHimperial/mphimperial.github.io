@@ -31,9 +31,9 @@ Download and install R (the most recent available - currently version 4.4.1) fro
 You are recommended to use a page in your own country, so please use the following when based in the United Kingdom/ London. **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**
 If you have issues with the Imperial link and are based in the UK, use any of the other options provided. 
 
-**For Mac computers**, select mac from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then click and install R-4.2.1.pkg. Then scroll towards the bottom of the page and also install tools (under subdirectories heading).
+**For Mac computers**, select mac from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then click and install R-4.4.1.pkg. Then scroll towards the bottom of the page and also install tools (under subdirectories heading).
 
-**For windows computers**, select windows from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then look at end of line which has **base** on left. Click on install R for the first time (from end of this line). Then click on **Download R 4.2.1 for windows**. Also go back to initial window page, scroll down further and click on and install **RTools**.
+**For windows computers**, select windows from **[https://cran.ma.imperial.ac.uk/](https://cran.ma.imperial.ac.uk/)**. Then look at end of line which has **base** on left. Click on install R for the first time (from end of this line). Then click on **Download R 4.4.1 for windows**. Also go back to initial window page, scroll down further and click on and install **RTools**.
 
 ### Installing RStudio
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link: **[Download RStudio](https://www.rstudio.com/products/rstudio/download/)**. Please choose the free version.
