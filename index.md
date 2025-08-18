@@ -43,11 +43,11 @@ R Studio is an integrated development environment for R. You can download the Op
 
 If you have any issues installing R/RStudio, support will be available during induction week to help you. 
 
-The following preparation in Steps 3 and 4 is particularly important if you: 
-*do not feel confident in statistics,  
-*need a refresher before start of term, 
-*have not recently studied a quantitative subject/module or worked with quantitative data (eg. doing data analysis in your job), and/or 
-*have never done any coding before using command line software such as R 
+The following preparation in Steps 3 and 4 is particularly important if you:
++ do not feel confident in statistics,
++ need a refresher before start of term,
++ have not recently studied a quantitative subject/module or worked with quantitative data (e.g. doing analysis in your job), and/or
++ have never done any coding before using command line softwarde such as R
 
 ## 3. Strongly recommended R coding preparation <a name="R_list"></a>
 
