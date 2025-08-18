@@ -44,14 +44,10 @@ R Studio is an integrated development environment for R. You can download the Op
 If you have any issues installing R/RStudio, support will be available during induction week to help you. 
 
 The following preparation in Steps 3 and 4 is particularly important if you: 
-
-    do not feel confident in statistics,  
-
-    need a refresher before start of term, 
-
-    have not recently studied a quantitative subject/module or worked with quantitative data (eg. doing data analysis in your job), and/or 
-
-    have never done any coding before using command line software such as R 
+*do not feel confident in statistics,  
+*need a refresher before start of term, 
+*have not recently studied a quantitative subject/module or worked with quantitative data (eg. doing data analysis in your job), and/or 
+*have never done any coding before using command line software such as R 
 
 ## 3. Strongly recommended R coding preparation <a name="R_list"></a>
 
@@ -67,9 +63,9 @@ If you have no prior knowledge of Statistics, or if your stats is a bit rusty, c
 
 **Key**
 
-1. Imperial SPH’s Massive Open Online course (MOOC) on Statistics and R. If you want to develop your confidence or refresh your memory in statistics prior to enrolment and during induction, Imperial offers a free MOOC that covers the basics – Introduction to Statistical Analysis for Public Health.**[Introduction to Statistics and Data Analysis in Public Health: Coursera](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health)**
+1. Imperial SPH’s Massive Open Online course (MOOC) on Statistics and R. If you want to develop your confidence or refresh your memory in statistics prior to enrolment and during induction, Imperial offers a free MOOC that covers the basics – Introduction to Statistical Analysis for Public Health. **[Introduction to Statistics and Data Analysis in Public Health: Coursera](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health)**
 
-2. The Epidemiologist R handbook. This free book is a useful introduction to common methods of data management and analysis for epidemiology in R. We recommend reading the Basics chapter, which includes guidance on how to transition to R from other software (eg. Excel, Stata)**[The Epidemiologist R handbook](https://epirhandbook.com/en/)**
+2. The Epidemiologist R handbook. This free book is a useful introduction to common methods of data management and analysis for epidemiology in R. We recommend reading the Basics chapter, which includes guidance on how to transition to R from other software (eg. Excel, Stata) **[The Epidemiologist R handbook](https://epirhandbook.com/en/)**
 
 
 **Extra resources**
